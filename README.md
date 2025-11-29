@@ -4,6 +4,7 @@
 # 网络综合查询器 NetInfoChecker 
 
 # 注意：作者正在使用C#重制本项目（网络综合查询器X），易语言版本暂时停更喵。为便于新版调试，旧版软件暂时不再维护喵，感谢理解喵。
+C#版本传送门[网络综合查询器X](https://github.com/Yumeyo23/NetInfoCheckerX)
 
 > [!CAUTION]
 >
